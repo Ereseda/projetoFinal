@@ -1,0 +1,156 @@
+C:\Users\Eli Reseda\Desktop\Nova pasta\ProjetoLogin\bin\Debug\ProjetoLogin.exe.config
+C:\Users\Eli Reseda\Desktop\Nova pasta\ProjetoLogin\bin\Debug\ProjetoLogin.exe
+C:\Users\Eli Reseda\Desktop\Nova pasta\ProjetoLogin\bin\Debug\ProjetoLogin.pdb
+C:\Users\Eli Reseda\Desktop\Nova pasta\ProjetoLogin\obj\Debug\ProjetoLogin.csprojAssemblyReference.cache
+C:\Users\Eli Reseda\Desktop\Nova pasta\ProjetoLogin\obj\Debug\ProjetoLogin.Properties.Resources.resources
+C:\Users\Eli Reseda\Desktop\Nova pasta\ProjetoLogin\obj\Debug\ProjetoLogin.Form1.resources
+C:\Users\Eli Reseda\Desktop\Nova pasta\ProjetoLogin\obj\Debug\ProjetoLogin.csproj.GenerateResource.cache
+C:\Users\Eli Reseda\Desktop\Nova pasta\ProjetoLogin\obj\Debug\ProjetoLogin.csproj.CoreCompileInputs.cache
+C:\Users\Eli Reseda\Desktop\Nova pasta\ProjetoLogin\obj\Debug\ProjetoLogin.exe
+C:\Users\Eli Reseda\Desktop\Nova pasta\ProjetoLogin\obj\Debug\ProjetoLogin.pdb
+C:\Users\Eli Reseda\Desktop\Nova pasta\ProjetoLogin\obj\Debug\ProjetoLogin.View.CadastreSe.resources
+C:\Users\Eli Reseda\Desktop\Nova pasta\ProjetoLogin\obj\Debug\ProjetoLogin.View.MenuOpcoes.resources
+C:\Users\Eli Reseda\Desktop\Nova pasta\ProjetoLogin\obj\Debug\ProjetoLogin.View.Telasplash.resources
+C:\Users\Eli Reseda\Desktop\Nova pasta\ProjetoLogin\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Eli Reseda\Desktop\Nova pasta\ProjetoLogin\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Eli Reseda\Desktop\Nova pasta\ProjetoLogin\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Eli Reseda\Desktop\Nova pasta\ProjetoLogin\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Eli Reseda\Desktop\Nova pasta\ProjetoLogin\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Eli Reseda\Desktop\Nova pasta\ProjetoLogin\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Eli Reseda\Desktop\Nova pasta\ProjetoLogin\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Eli Reseda\Desktop\Nova pasta\ProjetoLogin\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Eli Reseda\Desktop\Nova pasta\ProjetoLogin\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Eli Reseda\Desktop\Nova pasta\ProjetoLogin\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Eli Reseda\Desktop\Nova pasta\ProjetoLogin\bin\Debug\EnvDTE.dll
+C:\Users\Eli Reseda\Desktop\Nova pasta\ProjetoLogin\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Eli Reseda\Desktop\Nova pasta\ProjetoLogin\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Eli Reseda\Desktop\Nova pasta\ProjetoLogin\bin\Debug\stdole.dll
+C:\Users\Eli Reseda\Desktop\Nova pasta\ProjetoLogin\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Eli Reseda\Desktop\Nova pasta\ProjetoLogin\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Eli Reseda\Desktop\Nova pasta\ProjetoLogin\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Eli Reseda\Desktop\Nova pasta\ProjetoLogin\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Eli Reseda\Desktop\Nova pasta\ProjetoLogin\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Eli Reseda\Desktop\Nova pasta\ProjetoLogin\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Eli Reseda\Desktop\Nova pasta\ProjetoLogin\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Eli Reseda\Desktop\Nova pasta\ProjetoLogin\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Eli Reseda\Desktop\Nova pasta\ProjetoLogin\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Eli Reseda\Desktop\Nova pasta\ProjetoLogin\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Eli Reseda\Desktop\Nova pasta\ProjetoLogin\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Eli Reseda\Desktop\Nova pasta\ProjetoLogin\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Eli Reseda\Desktop\Nova pasta\ProjetoLogin\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Eli Reseda\Desktop\Nova pasta\ProjetoLogin\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Eli Reseda\Desktop\Nova pasta\ProjetoLogin\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Eli Reseda\Desktop\Nova pasta\ProjetoLogin\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Eli Reseda\Desktop\Nova pasta\ProjetoLogin\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Eli Reseda\Desktop\Nova pasta\ProjetoLogin\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Eli Reseda\Desktop\Nova pasta\ProjetoLogin\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Eli Reseda\Desktop\Nova pasta\ProjetoLogin\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Eli Reseda\Desktop\Nova pasta\ProjetoLogin\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Eli Reseda\Desktop\Nova pasta\ProjetoLogin\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Eli Reseda\Desktop\Nova pasta\ProjetoLogin\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Eli Reseda\Desktop\Nova pasta\ProjetoLogin\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Eli Reseda\Desktop\Nova pasta\ProjetoLogin\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Eli Reseda\Desktop\Nova pasta\ProjetoLogin\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Eli Reseda\Desktop\Nova pasta\ProjetoLogin\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Eli Reseda\Desktop\Nova pasta\ProjetoLogin\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Eli Reseda\Desktop\Nova pasta\ProjetoLogin\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Eli Reseda\Desktop\Nova pasta\ProjetoLogin\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Eli Reseda\Desktop\Nova pasta\ProjetoLogin\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Eli Reseda\Desktop\Nova pasta\ProjetoLogin\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Eli Reseda\Desktop\Nova pasta\ProjetoLogin\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Eli Reseda\Desktop\Nova pasta\ProjetoLogin\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Eli Reseda\Desktop\Nova pasta\ProjetoLogin\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Eli Reseda\Desktop\Nova pasta\ProjetoLogin\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Eli Reseda\Desktop\Nova pasta\ProjetoLogin\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Eli Reseda\Desktop\Nova pasta\ProjetoLogin\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Eli Reseda\Desktop\Nova pasta\ProjetoLogin\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Eli Reseda\Desktop\Nova pasta\ProjetoLogin\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Eli Reseda\Desktop\Nova pasta\ProjetoLogin\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Eli Reseda\Desktop\Nova pasta\ProjetoLogin\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Eli Reseda\Desktop\Nova pasta\ProjetoLogin\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Eli Reseda\Desktop\Nova pasta\ProjetoLogin\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Eli Reseda\Desktop\Nova pasta\ProjetoLogin\obj\Debug\ProjetoLogin.View.FrmRelatorioUsuariocs.resources
+C:\Users\Eli Reseda\Desktop\Nova pasta\ProjetoLogin\obj\Debug\RdlCompile.cache
+C:\Users\Eli Reseda\Desktop\Nova pasta\ProjetoLogin\obj\Debug\RdlCompile.compiled
+C:\Users\Eli Reseda\Desktop\Nova pasta\ProjetoLogin\obj\Debug\ProjetoLogin.csproj.CopyComplete
+C:\Users\Eli Reseda\Desktop\Nova pasta\ProjetoLogin\obj\Debug\ProjetoLogin.View.CadastroPaciente.resources
+C:\Users\Eli Reseda\Desktop\Nova pasta\ProjetoLogin\obj\Debug\ProjetoLogin.View.frmRelatorioCadPacientecs.resources
+C:\Users\Eli Reseda\Desktop\Nova pasta\ProjetoLogin\obj\Debug\ProjetoLogin.View.FormCadastroMedicocs.resources
+C:\Users\Eli Reseda\Desktop\ProjetoLogin\ProjetoLogin\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Eli Reseda\Desktop\ProjetoLogin\ProjetoLogin\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Eli Reseda\Desktop\ProjetoLogin\ProjetoLogin\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Eli Reseda\Desktop\ProjetoLogin\ProjetoLogin\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Eli Reseda\Desktop\ProjetoLogin\ProjetoLogin\bin\Debug\ProjetoLogin.exe.config
+C:\Users\Eli Reseda\Desktop\ProjetoLogin\ProjetoLogin\bin\Debug\ProjetoLogin.exe
+C:\Users\Eli Reseda\Desktop\ProjetoLogin\ProjetoLogin\bin\Debug\ProjetoLogin.pdb
+C:\Users\Eli Reseda\Desktop\ProjetoLogin\ProjetoLogin\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Eli Reseda\Desktop\ProjetoLogin\ProjetoLogin\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Eli Reseda\Desktop\ProjetoLogin\ProjetoLogin\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Eli Reseda\Desktop\ProjetoLogin\ProjetoLogin\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Eli Reseda\Desktop\ProjetoLogin\ProjetoLogin\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Eli Reseda\Desktop\ProjetoLogin\ProjetoLogin\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Eli Reseda\Desktop\ProjetoLogin\ProjetoLogin\bin\Debug\EnvDTE.dll
+C:\Users\Eli Reseda\Desktop\ProjetoLogin\ProjetoLogin\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Eli Reseda\Desktop\ProjetoLogin\ProjetoLogin\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Eli Reseda\Desktop\ProjetoLogin\ProjetoLogin\bin\Debug\stdole.dll
+C:\Users\Eli Reseda\Desktop\ProjetoLogin\ProjetoLogin\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Eli Reseda\Desktop\ProjetoLogin\ProjetoLogin\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Eli Reseda\Desktop\ProjetoLogin\ProjetoLogin\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Eli Reseda\Desktop\ProjetoLogin\ProjetoLogin\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Eli Reseda\Desktop\ProjetoLogin\ProjetoLogin\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Eli Reseda\Desktop\ProjetoLogin\ProjetoLogin\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Eli Reseda\Desktop\ProjetoLogin\ProjetoLogin\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Eli Reseda\Desktop\ProjetoLogin\ProjetoLogin\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Eli Reseda\Desktop\ProjetoLogin\ProjetoLogin\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Eli Reseda\Desktop\ProjetoLogin\ProjetoLogin\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Eli Reseda\Desktop\ProjetoLogin\ProjetoLogin\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Eli Reseda\Desktop\ProjetoLogin\ProjetoLogin\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Eli Reseda\Desktop\ProjetoLogin\ProjetoLogin\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Eli Reseda\Desktop\ProjetoLogin\ProjetoLogin\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Eli Reseda\Desktop\ProjetoLogin\ProjetoLogin\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Eli Reseda\Desktop\ProjetoLogin\ProjetoLogin\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Eli Reseda\Desktop\ProjetoLogin\ProjetoLogin\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Eli Reseda\Desktop\ProjetoLogin\ProjetoLogin\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Eli Reseda\Desktop\ProjetoLogin\ProjetoLogin\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Eli Reseda\Desktop\ProjetoLogin\ProjetoLogin\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Eli Reseda\Desktop\ProjetoLogin\ProjetoLogin\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Eli Reseda\Desktop\ProjetoLogin\ProjetoLogin\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Eli Reseda\Desktop\ProjetoLogin\ProjetoLogin\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Eli Reseda\Desktop\ProjetoLogin\ProjetoLogin\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Eli Reseda\Desktop\ProjetoLogin\ProjetoLogin\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Eli Reseda\Desktop\ProjetoLogin\ProjetoLogin\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Eli Reseda\Desktop\ProjetoLogin\ProjetoLogin\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Eli Reseda\Desktop\ProjetoLogin\ProjetoLogin\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Eli Reseda\Desktop\ProjetoLogin\ProjetoLogin\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Eli Reseda\Desktop\ProjetoLogin\ProjetoLogin\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Eli Reseda\Desktop\ProjetoLogin\ProjetoLogin\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Eli Reseda\Desktop\ProjetoLogin\ProjetoLogin\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Eli Reseda\Desktop\ProjetoLogin\ProjetoLogin\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Eli Reseda\Desktop\ProjetoLogin\ProjetoLogin\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Eli Reseda\Desktop\ProjetoLogin\ProjetoLogin\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Eli Reseda\Desktop\ProjetoLogin\ProjetoLogin\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Eli Reseda\Desktop\ProjetoLogin\ProjetoLogin\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Eli Reseda\Desktop\ProjetoLogin\ProjetoLogin\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Eli Reseda\Desktop\ProjetoLogin\ProjetoLogin\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Eli Reseda\Desktop\ProjetoLogin\ProjetoLogin\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Eli Reseda\Desktop\ProjetoLogin\ProjetoLogin\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Eli Reseda\Desktop\ProjetoLogin\ProjetoLogin\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Eli Reseda\Desktop\ProjetoLogin\ProjetoLogin\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Eli Reseda\Desktop\ProjetoLogin\ProjetoLogin\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Eli Reseda\Desktop\ProjetoLogin\ProjetoLogin\obj\Debug\ProjetoLogin.csprojAssemblyReference.cache
+C:\Users\Eli Reseda\Desktop\ProjetoLogin\ProjetoLogin\obj\Debug\ProjetoLogin.Properties.Resources.resources
+C:\Users\Eli Reseda\Desktop\ProjetoLogin\ProjetoLogin\obj\Debug\ProjetoLogin.View.CadastreSe.resources
+C:\Users\Eli Reseda\Desktop\ProjetoLogin\ProjetoLogin\obj\Debug\ProjetoLogin.View.CadastroPaciente.resources
+C:\Users\Eli Reseda\Desktop\ProjetoLogin\ProjetoLogin\obj\Debug\ProjetoLogin.Form1.resources
+C:\Users\Eli Reseda\Desktop\ProjetoLogin\ProjetoLogin\obj\Debug\ProjetoLogin.View.FormCadastroMedicocs.resources
+C:\Users\Eli Reseda\Desktop\ProjetoLogin\ProjetoLogin\obj\Debug\ProjetoLogin.View.frmRelatorioCadPacientecs.resources
+C:\Users\Eli Reseda\Desktop\ProjetoLogin\ProjetoLogin\obj\Debug\ProjetoLogin.View.FrmRelatorioUsuariocs.resources
+C:\Users\Eli Reseda\Desktop\ProjetoLogin\ProjetoLogin\obj\Debug\ProjetoLogin.View.MenuOpcoes.resources
+C:\Users\Eli Reseda\Desktop\ProjetoLogin\ProjetoLogin\obj\Debug\ProjetoLogin.View.Telasplash.resources
+C:\Users\Eli Reseda\Desktop\ProjetoLogin\ProjetoLogin\obj\Debug\ProjetoLogin.csproj.GenerateResource.cache
+C:\Users\Eli Reseda\Desktop\ProjetoLogin\ProjetoLogin\obj\Debug\RdlCompile.cache
+C:\Users\Eli Reseda\Desktop\ProjetoLogin\ProjetoLogin\obj\Debug\RdlCompile.compiled
+C:\Users\Eli Reseda\Desktop\ProjetoLogin\ProjetoLogin\obj\Debug\ProjetoLogin.csproj.CoreCompileInputs.cache
+C:\Users\Eli Reseda\Desktop\ProjetoLogin\ProjetoLogin\obj\Debug\ProjetoLogin.csproj.CopyComplete
+C:\Users\Eli Reseda\Desktop\ProjetoLogin\ProjetoLogin\obj\Debug\ProjetoLogin.exe
+C:\Users\Eli Reseda\Desktop\ProjetoLogin\ProjetoLogin\obj\Debug\ProjetoLogin.pdb
